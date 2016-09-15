@@ -1,3 +1,3 @@
-# vend-api-docs
+# Vend developer wiki
 
-Head straight for the [wiki](https://github.com/vend/vend-api-wiki/wiki).
+Head straight for the [wiki](https://github.com/vend/developer-wiki/wiki).
